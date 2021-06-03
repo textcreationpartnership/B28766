@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered to the high court of Parliament against laying a duty of one peny [sic] per pound upon tann'd leather, setting forth the great inconveniencies that will arise, if the same should pass.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28766</idno><idno type="EEBO-CITATION">99885877</idno>
+  <idno type="VID">186221</idno>
+  <idno type="EEBO-PROQUEST">2269047867</idno>
+  
+            <idno type="STC">Wing R557</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[19]</idno>
+            <idno type="STC">ESTC R225142</idno>
+            <idno type="PROQUEST">ocm99885877</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885877e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186221)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered to the high court of Parliament against laying a duty of one peny [sic] per pound upon tann'd leather, setting forth the great inconveniencies that will arise, if the same should pass.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hills, in Black-Fryers, near the Water-side.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained and worn away, with loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Leather industry and trade --  England --  Early works to 1800.</term>
+               <term type="topical_term">Taxation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Foreign trade regulation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186221:1"/>
+            <head>Reasons humbly offered to the High Court of Parliament against Laying a Duty of one Peny <hi>per</hi> Pound upon Tann'd Leather, Setting forth the Great Inconveniencies that will arise, if the same should Pass.</head>
+            <p>THE Duty will be near a Fifth part of the Value, which, with humble Submission, is Conceived will be more then the Commodity will now bear; for altho we have had Exportation for it many years, yet still there is enough to suyply our selves at Home as well as our Neigbours Abroad, at very reasonable Rates, and at this time Forreign Demands will not allow our Merchants here to give above Five pence half penny <hi>per</hi> Pound, and the advanceing One peny <hi>per</hi> Pound will put a stop to its going Abroad; and if so, our Consumption at Home will not take it off our hands; and if Tanners cannot advance it in the Leather, then it must be abated in the Raw Hides and Sknis, and to abate the Fifth part of the value 'twill greatly discourage the Breeding and Feeding of Cattle, and conse<g ref="char:EOLhyphen"/>quently Lower the value of Lands and price of Barke.</p>
+            <p>
+               <hi>Obj.</hi> If it be Objected, That the Merchants shall draw back the Duty then 'twill Encourage the price?</p>
+            <p>
+               <hi>Answer.</hi> True it is, it will be likely to advance the price, but yet it is humbly conceived, that will not advance Leather to be capa<g ref="char:EOLhyphen"/>ble to pay so great a Duty; for such is the disuse of Leather now in England (to what is has been) notwithstanding the Exportation of it, yet there are such stores Lying upon the Peoples hands, that they now Sell for a Third Peny less then formerly, and the rather, because we have great quantities of <hi>Russia</hi> and <hi>Turky</hi> Leather imported (of which there is little notice taken) that is now become a great wear in Shoes and several other Uses, together with Cloth and Sheep skins, which greatly lessens the Consumption of our Tann'd Leather, and that together with the Po<g ref="char:EOLhyphen"/>verty of the People, will in all probability Stop the Rise of Leather; And if so, then it must fall upon the Raw-Hides and Skins, as asserted, And if the Marchant hath not Liberty to draw back his Duty, then we are certain not to raise it in the Leather; And that the Shoe-maker knows very well: For in their Reasons which they give your Honours, they say, If a new Duty be laid, do but make the Exporter pay, and we have no more to say to the Bill, because they know this Duty upon the Marchant, will in efect stop its going Abroad, and then there will be such great Quantities at Home, that it cannot be raised upon them here.</p>
+            <p n="2">2d. This Duty will advance Shoes to Six Pence a pair; for Trades-Men generally reckon, that Twenty Shillings worth of Leather will not make above eight pair of Mens Shoes, which will cost the Shoe-maker Fourteen pence a Pair making, so the prime cost is one Pound Nine Shillings and four Pence; and at four Shillings a pair the Shoe-maker has but Two Shillings and eight pence in every Two and Thirty Shillings, to pay Rent, and provide for himself and Family, and pay Servants Wages, together with the King's Taxes and parish Duties.</p>
+            <p>
+               <hi>Object.</hi> If it be Objected, that a pair of Mens Shoes will not weigh above Two pounds and a half, or there abouts, how can it then advance Six pence a pair?</p>
+            <p>
+               <hi>Answ.</hi> To this it is Answered, That Leather Rough in the Market, weighs near as much more as when it is Dressed by the Currier, and made up in Shoes; Besides, the Shoemaker loses an eight part by Cutting and paring the Leather off in the Workmanship; which being duly Consi<g ref="char:EOLhyphen"/>dered, it will amount to as much in every pair of Shoes as before asserted; And if so, then it will be more burthensome then a poll-Tax, beside the great discouragement to Trade.</p>
+            <p n="3">3d. Leather is Rated in the stock this present Sessions of Parliament, at Four and Twenty Shillings for every Hundreds pound worth, and it seems hard to lay a second Duty upon the said Commodity in one and the same Year.</p>
+            <p n="4">4th. This will Ruine many thousand Families in <hi>England;</hi> for many Tanners with One hundred and Fifty, or Two hundred pounds Stock, do make shift very Comfortably to Trade and maintain their Families; But if this Duty pass, a Fifth part of their Stocks becomes immediatly the Kings; Besides, the Tanner must be obliged to sell his Leather to lay in his Store of Bark for the year ensuing, and will not have an Oppor<g ref="char:EOLhyphen"/>tunity to furnish himself with Raw Hides till the Slaughter comes in, and before the poor Artificer can come to help himself, that stock upon which he Treaded and lived is eat up and gone. For suppose it should be granted, That at length Tann'd Leather should advance to pay this Duty (although very unlikely) yet the Ruine of the poor Artificer is certain before this can be accomplished; for there are many Leather-Sellers, and other dealing in Leather, that have great Quantities now lying upon their hands, and this being Bought of the Tanner before the Act takes place, payes no Duty, it is sold to the Worker, and converter into made Wares, and by that means these great Retailers of Leather will out do the Tanner, that must pay for his present stock when rateable, and the other, that is not at one peny Charge in the Manufactures, shall go free, and thereby will keep down the Market, by supplying Artificers in their Shops, and get more then the Tanners that manufacture the Commodity.</p>
+            <p n="5">5th. There will be so many perplexing difficulties that will attend the Collecting of it, that the King will not receive above one halfe of what the Duty comes to; And although all Leather be brought to publick Markets, yet the Impractibility of it is such, notwithstand<g ref="char:EOLhyphen"/>ing there is a Law in the First Year of King <hi>James</hi> the First, That no Person or Persons shall put, or cause to be put to Sale, any kind of Red Tann'd Leather, but in open Fair or Market, upon the Forfeiture of six Shillings and eight Pence for every Hide or Piece of Leather so sold or departed with; Yet nevertheless, two Thirds of the Leather Tann'd in <hi>England</hi> will be sold out of publick Fair or Mar<g ref="char:EOLhyphen"/>ket, and more now then ever herefore has been, since an Act made in the First Year of Ther present Majesties, for Explaining an Act made in the First of King <hi>James</hi> the First, Chapter the 22d. which gives Liberty, That it shall and may be Lawful to and for all Leather-Sellers, Curriers; Shoemakers, and others dealing in Leather, freely to buy all sorts of Red Tann'd Leather; and having so bought the same, to sell it again to any person or persons whatsoever, in their publick and open Shops.</p>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Buying in Tanners Yards cannot be detected; for if they buy but a few in the publick Market sealed, <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>sure to keep that piece by them that has the Seale on; and when that which is Irregular bought is cut in pieces, and mingled among <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which is usually done) it will be impossible to discern the difference between that bought in the Market, and that bought <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> And if the Leather-Seller did not hope to play his Game that way, 'tis believed he would not be so willing to have this Duty pass, <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Law in King <hi>James</hi> the First, expresly says, That no person whatsoever, shall or may Buy, Sell, Bargaine, Bespeak to Take, <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to have, Exchange or put away any Tann'd Leather, not wrought and converted into made Wares, upon Forfeiture of their Leather bought, Exchanged or put away, or the just Value thereof.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed by <hi>H. Hills,</hi> in <hi>Black-Fryers,</hi> near the Water-side. 1694.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
